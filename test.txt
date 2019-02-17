@@ -11,3 +11,4 @@
             jobs = [...jobs, job];
         }
     });
+      console.log(jobs)
